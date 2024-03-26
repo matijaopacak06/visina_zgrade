@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\bin\Debug\visina zgrade2.exe.config
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\bin\Debug\visina zgrade2.exe
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\bin\Debug\visina zgrade2.pdb
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina zgrade2.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina_zgrade2.Form1.resources
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina_zgrade2.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina zgrade2.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina zgrade2.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina zgrade2.exe
+C:\Users\Ucenik\source\repos\visina zgrade2\visina zgrade2\obj\Debug\visina zgrade2.pdb
